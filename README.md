@@ -5,5 +5,5 @@ MegaShapesでキャラクターを移動・途中で進路変更する
 
 [Youtube](https://www.youtube.com/watch?v=LJV7kjx3bIY)
 
-MegaShapesFollowをつけたキャラクターのスピードの設定や  
+MegaShapeFollowをつけたキャラクターのスピードの設定や  
 待機時間、進路変更（TargetShapeの切り替え）を行います
