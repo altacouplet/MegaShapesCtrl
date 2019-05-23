@@ -5,5 +5,5 @@ MegaShapesでキャラクターを移動・途中で分岐する
 
 [Youtube](https://www.youtube.com/watch?v=LJV7kjx3bIY)
 
-MegaShapesFollowをつけたキャラクターのスピードや
-途中の待機、進路変更（TargetShapeの切り替え）を行います
+MegaShapesFollowをつけたキャラクターのスピードの設定や  
+待機時間、進路変更（TargetShapeの切り替え）を行います
